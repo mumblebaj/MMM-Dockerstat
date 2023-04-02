@@ -8,6 +8,7 @@
         user:'pi', //ssh user id of second pi
         password:'', //ssh password of second pi
         offlineIcon: 'fa-times-circle', // Font Awesome icon for offline status
-        onlineIcon: 'fa-check-circle' // Font Awesome icon for online status
+        onlineIcon: 'fa-check-circle', // Font Awesome icon for online status
+        conatiner: "container-name" // Name of the container
     }
     },
